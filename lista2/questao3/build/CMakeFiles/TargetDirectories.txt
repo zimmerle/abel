@@ -1,0 +1,3 @@
+/home/zimmerle/core-cin/abel/listas/lista2/questao3/build/CMakeFiles/rebuild_cache.dir
+/home/zimmerle/core-cin/abel/listas/lista2/questao3/build/CMakeFiles/main.dir
+/home/zimmerle/core-cin/abel/listas/lista2/questao3/build/CMakeFiles/edit_cache.dir

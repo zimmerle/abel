@@ -1,0 +1,7 @@
+# ninja log v5
+0	19	1525022259	CMakeFiles/main.dir/main-cstartup.c.o	193d4c5ef885cddf
+0	25	1525022259	CMakeFiles/main.dir/rpi-gpio.c.o	63296e10f1c9511c
+0	28	1525022259	CMakeFiles/main.dir/main.c.o	f0348783293b9086
+0	18	1525022319	CMakeFiles/main.dir/main-cstartup.c.o	193d4c5ef885cddf
+0	21	1525022319	CMakeFiles/main.dir/rpi-gpio.c.o	63296e10f1c9511c
+0	24	1525022319	CMakeFiles/main.dir/main.c.o	f0348783293b9086
