@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zimmerle/core-cin/abel/listas/lista2/questao5/main-cstartup.c
+
+/home/zimmerle/core-cin/abel/listas/lista2/questao5/main-cstubs.c
+errno.h
+-
+sys/stat.h
+-
+sys/times.h
+-
+
+/home/zimmerle/core-cin/abel/listas/lista2/questao5/main.c
+string.h
+-
+stdlib.h
+-
+rpi-gpio.h
+/home/zimmerle/core-cin/abel/listas/lista2/questao5/rpi-gpio.h
+
+/home/zimmerle/core-cin/abel/listas/lista2/questao5/rpi-base.h
+stdint.h
+-
+
+/home/zimmerle/core-cin/abel/listas/lista2/questao5/rpi-gpio.c
+stdint.h
+-
+rpi-gpio.h
+/home/zimmerle/core-cin/abel/listas/lista2/questao5/rpi-gpio.h
+
+/home/zimmerle/core-cin/abel/listas/lista2/questao5/rpi-gpio.h
+rpi-base.h
+/home/zimmerle/core-cin/abel/listas/lista2/questao5/rpi-base.h
+
