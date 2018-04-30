@@ -1,1 +1,0 @@
-/usr/bin/arm-none-eabi-gcc  -mfpu=vfp -mfloat-abi=hard -march=armv6zk -mtune=arm1176jzf-s -mfpu=vfp -mfloat-abi=hard -march=armv6zk -mtune=arm1176jzf-s -O0 -g -nostartfiles   CMakeFiles/main.dir/main.c.obj CMakeFiles/main.dir/rpi-gpio.c.obj CMakeFiles/main.dir/main-cstartup.c.obj CMakeFiles/main.dir/main-cstubs.c.obj CMakeFiles/main.dir/main-start.S.obj  -o main 
