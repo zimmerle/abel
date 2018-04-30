@@ -33,7 +33,6 @@ void wait_ms (uint32_t us) {
 void kernel_main( unsigned int r0, unsigned int r1, unsigned int atags )
 {
     int loop = 0;
-    unsigned int counter;
 
     RPI_SetGpioInput(RPI_GPIO4);
     RPI_SetGpioOutput(RPI_GPIO20);
